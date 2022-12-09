@@ -1,0 +1,30 @@
+
+amirbuske
+
+amirbusatlic1974@gmail.com
+
+
+{
+    "clientName": "amirbuske",
+    "clientEmail": "amirbusatlic1974@gmail.com"
+}
+
+AccessToken
+
+"accessToken": "fa46f7e49f0fdbeaedb537a4ed6772f3e92ee86b2d08cd32334f614fc4e9285d"
+
+baseURL
+
+https://simple-books-api.glitch.me
+
+
+
+{
+  "bookId": 1,
+  "customerName": "John"
+}
+
+{
+  "customerName": "John"
+}
+
