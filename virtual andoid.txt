@@ -1,0 +1,4 @@
+sc stop intelhaxm
+
+sc start intelhaxm
+
